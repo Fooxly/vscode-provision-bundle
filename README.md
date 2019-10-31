@@ -49,7 +49,7 @@ ext install fooxly.provision
 
 > A package by [Fooxly](https://www.fooxly.com).
 
-**Provision** is a extension bundle which combines the [Provision: Lens](https://marketplace.visualstudio.com/items?itemName=fooxly.provision-lens), [Provision: Bar](https://marketplace.visualstudio.com/items?itemName=fooxly.provision-bar) and [Provision: Syntax](https://marketplace.visualstudio.com/items?itemName=fooxly.provision-syntax) extension.
+**Provision** is a extension bundle which combines the [Provision: Lens](https://marketplace.visualstudio.com/items?itemName=fooxly.provision-lens), [Provision: Bar](https://marketplace.visualstudio.com/items?itemName=fooxly.provision-bar) and [Provision: Syntax](https://marketplace.visualstudio.com/items?itemName=fooxly.provision-syntax) extensions.
 
 ## 📙 &nbsp;How to use
 
