@@ -1,0 +1,46 @@
+{
+    "name": "provision",
+    "displayName": "Provision",
+    "author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com/)",
+	"description": "Providing a simple way to view all notes in your workspace based on keywords.",
+    "version": "0.0.1",
+    "keywords": [
+		"fooxly",
+		"vscode",
+		"code",
+		"todo",
+		"fixme",
+		"note",
+		"notes",
+        "keyword",
+        "provision"
+	],
+    "homepage": "https://github.com/Fooxly/vscode-provision",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Fooxly/vscode-provision.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Fooxly/vscode-provision/issues",
+		"email": "bugs@fooxly.com"
+	},
+	"license": "MIT",
+    "engines": {
+		"yarn": "^1",
+        "vscode": "^1.39.0"
+    },
+	"publisher": "Fooxly",
+    "icon": "assets/icon.png",
+    "galleryBanner": {
+		"color": "#272729",
+		"theme": "dark"
+	},
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "fooxly.provision-lens",
+        "fooxly.provision-bar",
+        "fooxly.provision-syntax"
+    ]
+}
